@@ -39,7 +39,7 @@ The dataset used in this project is publicly available on Kaggle:
 - Total rows: ~6,800 books
 - Columns: 3
 
-### Dataset Limitations###
+### Dataset Limitations ###
 
 1. Category labels are noisy and not standardized
 2. Descriptions vary significantly in length and quality
